@@ -1,6 +1,5 @@
 # Project--Hadoop-24
 
-
 <table>
   
 **In this project We will use Spark with Python to do an amazing stuff. We will use Spark SQL to calculate the total amount spent by customers in customer-orders.csv**.<br></br>
