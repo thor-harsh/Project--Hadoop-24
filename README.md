@@ -1,9 +1,9 @@
-# Project--Hadoop-22
+# Project--Hadoop-24
 
 
 <table>
   
-**In this project We will use Spark with Python to do a great stuff. Here We further count the occurenece of word using dataframe by using regular expression to filter out or explode each words into different row and have a common single column naming it word.<br></br>We have added the sorted function to give us the result in order like in first it will show the least occuring word and then as we go down we will get the word its increasing count of occurences using our amazing spark**.<br></br>
+**In this project We will use Spark with Python to do a great stuff. We will use Spark SQL to calculate the total amount spent by customers in customer-orders.csv**.<br></br>
 
 **Before jumping to the code lets understand Spark first**...<br></br>
 
