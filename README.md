@@ -20,7 +20,7 @@ Spark SQL supports the HiveQL syntax as well as Hive SerDes and UDFs, allowing y
 Spark SQL includes a cost-based optimizer, columnar storage and code generation to make queries fast. At the same time, it scales to thousands of nodes and multi hour queries using the Spark engine, which provides full mid-query fault tolerance. Don't worry about using a different engine for historical data.<br></br>
 
 
-**Important Note: Go through the book Text before jumping to the code.**
+**Important Note: Go through the customer-oders.csv before jumping to the code.**
 
 </table>
 
