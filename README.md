@@ -3,7 +3,7 @@
 
 <table>
   
-**In this project We will use Spark with Python to do a great stuff. We will use Spark SQL to calculate the total amount spent by customers in customer-orders.csv**.<br></br>
+**In this project We will use Spark with Python to do an amazing stuff. We will use Spark SQL to calculate the total amount spent by customers in customer-orders.csv**.<br></br>
 
 **Before jumping to the code lets understand Spark first**...<br></br>
 
